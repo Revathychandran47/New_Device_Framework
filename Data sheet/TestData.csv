@@ -1,0 +1,54 @@
+Field_Data,Field_data_iter1
+welcome_oneAppToText,"One app to help you consolidate all your health records, track your medications, manage your healthcare expenses, shop for plans and more.."
+login_page_title,Welcome Back! Log In
+signup_welcome_title,Welcome!
+signup_page_title,Create Your Account
+signup_userDetailsPage_title,Welcome ! Please add a few details about yourself
+signup_first_name,"#2323##$$ ,Test"
+signup_last_name,"23##re,Last"
+signup_email_id,"Testempgmail.com,test@mail.com"
+signup_phone_number,"222555,##()@,1112223334"
+signup_password,"abcd,abcdefgh,Welcome@1,Aarav@97"
+signup_confirm_password,"Welcome@,Welcome@1,Aarav@97"
+signup_firstname_blank_msg,First name required
+signup_lastname_blank_msg,Last name required
+signup_phoneNumber_invalid_msg,Phone number should be 10 digit number
+signup_firstname_invalid_msg,Invalid first name
+signup_lastname_invalid_msg,Invalid last name
+signup_invalid_emailid_msg,Invalid email
+signup_email_blank_msg,Email ID required
+signup_phoneNumber_blank_msg,Phone number required
+signup_password_blank_msg,Password required
+signup_confirmPassword_blank_msg,Confirm password required
+signup_password_invalidLength_msg,Password must be 8 or more characters long.
+signup_password_invalid_msg," Must include an upper case and lower letter, number and symbol"
+signup_password_invalidMatch_msg,Password does not match
+signup_emailExists_msg,Email already exists
+signup_phoneNumExists_msg,Contact number already exists.
+signup_referral_code,"revad908,REVAd908"
+signup_promo_code,"IFP001,MEDI001"
+signup_referralPromoCode_invalid_msg,Invalid referral/promo code
+signup_T&C_Privacy_blank_msg,Please accept Terms and Conditions and Privacy Policy!
+signup_byCreatingAn_text,By creating an account you are accepting the
+signup_haveAnAccount_text,Have an account?
+signup_emailId_helpText,abc@xyz.com
+signup_password_helpText,Password (8+ characters)
+signup_confirmPassword_helpText,Password (8+ characters)
+signup_T&C_title,Terms & Conditions
+signup_PP_title,Privacy Policy
+otp_1,"1,4"
+otp_2,"2,3"
+otp_3,"3,2"
+otp_4,"4,1"
+otp_page_title,Please Enter OTP
+otp_enterThe4_text,Enter the 4 digit code sent to
+otp_didntReceiveIt_text,Didn’t receive it?
+otp_invalid_msg,"Incorrect OTP, please try again"
+edit_wellSendAOTP_text,We’ll send a OTP to confirm your number
+login_username,"1112223334"
+login_password,"Test@123"
+home_congratulations_text,Congratulations! You chose to get Mpowered!
+awardPoints_youEarned_text,You earned
+awardPoints_usedMedi001_text,Used Medi001 as promocode
+awardPoints_value,100
+awardPoints_someoneUsed_text,Someone used your referral code.
